@@ -1,2 +1,0 @@
-.App{text-align:center}li{color:#2e2b2b;margin:10px;padding:20px;display:block;width:200px;height:140px;border-radius:20px;box-shadow:0 1px 4px #000;transition:transform .5s}li:hover{cursor:pointer;transform:scale(1.05)}.false{background-color:#e09cb3}.false:after{content:"not finished";font-weight:700}.true:after{content:"done";font-weight:700}.true{background-color:#166916}ul{display:flex;flex-wrap:wrap}
-/*# sourceMappingURL=main.91f568ad.chunk.css.map */
